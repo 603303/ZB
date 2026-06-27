@@ -1,4 +1,5 @@
 🔞一本道_6,#genre#
+
 1pon_cy,https://vip3.lbbf9.com/20220113/subsDqjy/1000kb/hls/index.m3u8
 1ponslm,https://www.lbbf9.com/20210617/BQKojYIM/700kb/hls/index.m3u8
 1pon061110_854,https://www.lbbf9.com/20200521/p3mHHHdx/700kb/hls/index.m3u8
@@ -97,6 +98,8 @@
 1bd118,https://vip4.ddyunbo.com/20191020/HFA1EICB/index.m3u8
 1bd119,https://vip4.ddyunbo.com/20190725/QoR2tEMa/index.m3u8
 1bd120,https://vip4.ddyunbo.com/20191203/a3QaDIMv/index.m3u8
+
+🌈 频道 2_6,#genre#
 1bd121,https://vip4.ddyunbo.com/20191104/j2LhlTOV/index.m3u8
 1bd122,https://vip4.ddyunbo.com/20191008/zaPfpDWi/index.m3u8
 1bd123,https://vip4.ddyunbo.com/20191206/beXglix7/index.m3u8
@@ -195,6 +198,8 @@
 1bd217,https://vip4.ddyunbo.com/20191111/8ps41QnU/index.m3u8
 1bd218,https://vip4.ddyunbo.com/20191031/ZqY7BWDT/index.m3u8
 1bd220,https://vip4.ddyunbo.com/20191121/xYprKCt3/index.m3u8
+
+🌈 频道 3_6,#genre#
 1bd222,https://vip4.ddyunbo.com/20191128/iWncGfHM/index.m3u8
 1bd223,https://vip4.ddyunbo.com/20191128/ZupzK8uN/index.m3u8
 1bd224,https://vip4.ddyunbo.com/20191029/S6qqt8Mh/index.m3u8
@@ -298,6 +303,8 @@
 1bd340,https://vip4.ddyunbo.com/20210523/adSLcr5u/index.m3u8
 1bd341,https://vip4.ddyunbo.com/20210610/TGBrJEHJ/index.m3u8
 1bd342,https://vip4.ddyunbo.com/20211006/4wf2DOwX/index.m3u8
+
+🌈 频道4_6,#genre#
 1bd343,https://vip4.ddyunbo.com/20211006/S1HzUAlb/index.m3u8
 1bd344,https://vip4.ddyunbo.com/20210619/3KvERjbU/index.m3u8
 1bd345,https://vip4.ddyunbo.com/20210619/t7EOBSZb/index.m3u8
@@ -351,24 +358,7 @@
 1bd394,https://vip4.ddyunbo.com/20210808/Pf1jWJ54/index.m3u8
 1bd395,https://vip4.ddyunbo.com/20210626/yasWpN6k/index.m3u8
 
-
-🔒午夜频道,#genre#
-Кино 18+ International,https://v2.catcast.tv/content/40381/index.m3u8#http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451481
-pigo,http://flvforhls-pull-goldendragon.speedws.com:80/live/b815c608179517e41dbf3478096cabd1.flv#https://cf005.paopao.video:443/6FA889EA7A6FC4659B929A38188A059E5BE0BB8B
-日本映画,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-东映,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27#http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts#http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts#http://45.235.0.78:80/PLAYBOYTV-HD/index.m3u8#http://190.14.10.19:16000/play/a045/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/N8HKZ3DNUQKK2D/6242/index.m3u8
-
-✈台湾频道,#genre#
-驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-香蕉, http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-松視3台,http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts
-
-
-🔞欧O美,#genre#
-
+🌈 欧美频道_6,#genre#
 playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 girls live,https://live.mycamtv.com/stream.m3u8
 Miami TV Sun Beach,http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
