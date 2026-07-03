@@ -1,4 +1,48 @@
-☀️ 影院频道_6,#genre#
+🍉 电影系列_6,#genre#
+烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
+绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+红牛TV[1280*720],https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+电影_强森,https://live.metshop.top/huya/21059581
+
+
+
+电影_许氏三杰,https://live.metshop.top/huya/11602033
+电影_警匪,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352886
+电影_海盗,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059595
+电影_赛车,http://tv.zimtv.cn/tv/player/api/huya.php?id=11279247
+电影_救援,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059594
+电影_热血,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352934
+电影_谍战,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059585
+电影_战争,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059592
+电影_八点档,http://tv.zimtv.cn/tv/player/api/huya.php?id=880261
+电影_蜘蛛侠,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059599
+电影_贺岁片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601986
+电影_功夫片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352941
+电影_黑帮片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11336719
+电影_灾难片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602075
+电影_谍战片,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059587
+电影_战争片,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059574
+电影_古装片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11336590
+电影_喜剧专场,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602044
+电影_高分动作,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352884
+电影_嫣然影厅,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601977
+电影_动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+电影_邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+电影_邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+电影_邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+电影_邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+电影_华数动作,http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+电影_家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+电影_影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+CHC影迷电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chchd
+CHC动作电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcdz
+重温经典,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cwjd
+
+
+
+☀️ 影院频道,#genre#
 
 陈翔六点频道,http://cfss.cc/cdn/huya/11274154.flv
 喜剧专场频道,http://cfss.cc/cdn/huya/11602044.flv
@@ -25,8 +69,8 @@
 怪兽系列频道,http://cfss.cc/cdn/huya/21059554.flv
 杰森斯坦频道,http://cfss.cc/cdn/huya/21059588.flv
 
-🐼 轮播频道_6,#genre#
-
+🐼 轮播频道,#genre#
+成龙轮播,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbcl
 成龙轮播,http://cfss.cc/cdn/huya/11342386.flv
 放映厅轮播,http://cfss.cc/cdn/huya/11602077.flv
 刘德华轮播,http://cfss.cc/cdn/huya/11342424.flv
@@ -34,7 +78,10 @@
 李连杰轮播,http://cfss.cc/cdn/huya/11342390.flv
 甄子丹轮播,http://cfss.cc/cdn/huya/11352935.flv
 周润发轮播,http://cfss.cc/cdn/huya/11342387.flv
-周星星轮播,http://cfss.cc/cdn/huya/11336587.flv
+周润发轮播,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzrf
+周星驰轮播,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzxc
+林正英轮播,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lblzy
+周星驰轮播,http://cfss.cc/cdn/huya/11336587.flv
 洪金宝轮播,http://cfss.cc/cdn/huya/11279251.flv
 梁家辉轮播,http://cfss.cc/cdn/huya/11342429.flv
 五福星轮播,http://cfss.cc/cdn/huya/11282233.flv
@@ -66,7 +113,7 @@
 战争轮播,http://cfss.cc/cdn/huya/21059592.flv
 小鬼头轮播,http://cfss.cc/cdn/huya/11352963.flv
 
-🏀 连续剧_6,#genre#
+🏀 雪中悍刀行,#genre#
 雪中悍刀行01,https://vip.ffzy-play.com/20221020/2351_1c211ba7/2000k/hls/mixed.m3u8
 雪中悍刀行02,https://vip.ffzy-play.com/20221020/2352_9bacc7dc/2000k/hls/mixed.m3u8
 雪中悍刀行03,https://vip.ffzy-play.com/20221020/2353_f4506552/2000k/hls/mixed.m3u8
@@ -104,6 +151,7 @@
 雪中悍刀行36,https://vip.ffzy-play.com/20221020/2401_dfb0103e/2000k/hls/mixed.m3u8
 雪中悍刀行37,https://vip.ffzy-play.com/20221020/2402_a7082890/2000k/hls/mixed.m3u8
 雪中悍刀行38,https://vip.ffzy-play.com/20221020/2403_855bc85f/2000k/hls/mixed.m3u8
+🏀 尘封十三载,#genre#
 尘封十三载 第01集,https://hd.lz-cdn18.com/20230406/1701_0ba78cf7/index.m3u8
 尘封十三载 第02集,https://hd.lz-cdn18.com/20230406/1700_691f2e08/index.m3u8
 尘封十三载 第03集,https://hd.lz-cdn18.com/20230406/1699_2f8cac84/index.m3u8
@@ -128,3 +176,20 @@
 尘封十三载 第22集,https://vip.lzcdn2.com/20230415/25243_a2e60486/index.m3u8
 尘封十三载 第23集,https://hd.lz-cdn18.com/20230416/1926_6c185945/index.m3u8
 尘封十三载 第24集,https://hd.lz-cdn18.com/20230416/1925_64688cb0/index.m3u8
+
+☀️ 连续剧,#genre#
+金瓶梅(楊思敏版)1,https://play.hhuus.com/play/Rb4vYB7e/index.m3u8
+金瓶梅(楊思敏版)2,https://play.hhuus.com/play/RdGXQlKe/index.m3u8
+金瓶梅(楊思敏版)3,https://play.hhuus.com/play/PdyAJ36d/index.m3u8
+金瓶梅(楊思敏版)4,https://play.hhuus.com/play/DdwyR3ra/index.m3u8
+金瓶梅(楊思敏版)5,https://play.hhuus.com/play/9b6xzEOe/index.m3u8
+新紅樓夢1,https://play.hhuus.com/play/Pdy7JlWa/index.m3u8
+新紅樓夢2,https://play.hhuus.com/play/mepBXw6b/index.m3u8
+新紅樓夢3,https://play.hhuus.com/play/lej5OQ5d/index.m3u8
+新紅樓夢4,https://play.hhuus.com/play/YerBMZEe/index.m3u8
+新紅樓夢5,https://play.hhuus.com/play/pen7NQRa/index.m3u8
+新紅樓夢6,https://play.hhuus.com/play/nelXMQ5e/index.m3u8
+新紅樓夢7,https://play.hhuus.com/play/Xe0EAvva/index.m3u8
+新紅樓夢8,https://play.hhuus.com/play/rb22GzKb/index.m3u8
+新紅樓夢9,https://play.hhuus.com/play/5eVoJgMa/index.m3u8
+新紅樓夢10,https://play.hhuus.com/play/YaOLJVpb/index.m3u8
